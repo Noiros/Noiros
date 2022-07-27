@@ -11,8 +11,3 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=Noiros&theme=radical&show_icons=true&count_private=true" alt="Noiros's Github stats">
 </p>
-
-
-<p align="center">
-  <img src="https://discord.com/widget?id=543405774983135247&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</p>
