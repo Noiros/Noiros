@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### All of my activities
+### 🖖 All of my activities
 
-🔭 I’m currently working on my video game "Object Wars"
-👨‍💻 All of my projects are available at https://vedg.site and https://object-wars.com
-📫 How to reach me with my Discord account : Noiros#3057 or on https://discord.gg/GmmeF77
+🔭 I'm currently working on my video games Object Wars and Endless Adventure.\n
+👨‍💻 All my projects are available on https://vedgstudio.com and https://object-wars.com\n
+📫 Join me on my discord server https://discord.gg/GmmeF77\n
 
-## Contact me
+## 📫 Contact me
 <p align="left">
 	<a href="https://twitter.com/NoirosL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamersgeekdev" height="30" width="40" /></a>
 	<a href="https://instagram.com/noirosdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamersgeekdev" height="30" width="40" /></a>
