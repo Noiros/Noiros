@@ -2,9 +2,12 @@
 
 ### 🖖 All of my activities
 
-🔭 I'm currently working on my video games Object Wars and Endless Adventure.\n
-👨‍💻 All my projects are available on https://vedgstudio.com and https://object-wars.com\n
-📫 Join me on my discord server https://discord.gg/GmmeF77\n
+🔭 I'm currently working on my video games Object Wars and Endless Adventure.
+
+👨‍💻 All my projects are available on https://vedgstudio.com and https://object-wars.com
+
+📫 Join me on my discord server https://discord.gg/GmmeF77
+
 
 ## 📫 Contact me
 <p align="left">
