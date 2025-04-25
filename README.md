@@ -1,12 +1,12 @@
-## Hi there 👋
+<img src="https://cdn.vedgstudio.com/cdn/objectwars_main_ultrawide.jpg" alt="Banner">
 
-### 🖖 All of my activities
+## 👋 Hi there
+🔭 Working on Object Wars and Endless Adventure
 
-🔭 I'm currently working on my video games Object Wars and Endless Adventure.
+👨‍💻 All my games are available on https://vedgstudio.com and https://object-wars.com
 
-👨‍💻 All my projects are available on https://vedgstudio.com and https://object-wars.com
+📫 Join me on discord ! https://discord.gg/GmmeF77
 
-📫 Join me on my discord server https://discord.gg/GmmeF77
 
 
 ## 📫 Contact me
