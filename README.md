@@ -1,4 +1,4 @@
-<img src="https://cdn.vedgstudio.com/cdn/objectwars_main_ultrawide.jpg" alt="Banner">
+<img src="https://cdn.vedgstudio.com/cdn/keyarts/ow_uw_main_title.jpg" alt="Banner">
 
 ## 👋 Hi there
 🔭 Working on Object Wars and Endless Adventure
