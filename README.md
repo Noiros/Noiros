@@ -1,23 +1,28 @@
-<img src="https://cdn.vedgstudio.com/cdn/keyarts/ow_uw_main_title.jpg" alt="Banner">
+# 🕹️ Independent & Self-Taught Gameplay Developer | Vedg Studio
 
-## 👋 Hi there
-🔭 Working on Object Wars and Endless Adventure
+## 👋 About Me
 
-👨‍💻 All my games are available on https://vedgstudio.com and https://object-wars.com
+I am **Nicolas**, a Belgian independent game developer specializing in **Gameplay Programming**. I started coding **9 years ago** as a self-taught programmer, which helped me build a strong practical foundation. To formalize and professionalize these skills, I am currently pursuing a **Master's Degree in Video Game Programming** at **HEAJ** in Belgium.
 
-📫 Join me on discord ! https://discord.gg/GmmeF77
+My goal is to create unique and captivating gaming experiences, which I primarily develop through my studio: **Vedg Studio**.
 
+## 🎮 My Projects
 
+I am actively working on two major projects with Vedg Studio:
 
-## 📫 Contact me
-<p align="left">
-	<a href="https://twitter.com/NoirosL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamersgeekdev" height="30" width="40" /></a>
-	<a href="https://instagram.com/noirosdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamersgeekdev" height="30" width="40" /></a>
-	<a href="https://discord.gg/GmmeF77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7ykdCWQGE6" height="30" width="40" /></a>
-</p>
+* **Object Wars**: A **fast-paced multiplayer TPS** (Third-Person Shooter) with an original concept.
+* **Endless Adventure**: A **semi-open world action/adventure game**.
 
-## ⚡ Stats
-<p align="center">
+Check out all my games on:
+* **Vedg Studio**: [https://vedgstudio.com](https://vedgstudio.com)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Noiros&theme=radical&show_icons=true&count_private=true" alt="Noiros's Github stats">
-</p>
+## 🌐 Contact & Portfolio
+
+Would you like to know more about my work, my skills, or contact me for an opportunity?
+
+| Type | Link |
+| :--- | :--- |
+| **Portfolio & Resume** | **[https://nicolas.vedgstudio.com](https://nicolas.vedgstudio.com)** |
+| **Twitter** | [https://twitter.com/NoirosL](https://twitter.com/NoirosL) |
+| **Instagram** | [https://instagram.com/noirosdev](https://instagram.com/noirosdev) |
+| **Discord (Studio)** | [https://discord.gg/GmmeF77](https://discord.gg/GmmeF77) |
